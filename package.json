@@ -8,6 +8,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "tsc --watch",
+    "build": "parcel build src/*.html --public-url /Nataliia0202-TS-COURSE-VANILLA-JS/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
