@@ -1,6 +1,7 @@
 {
   "name": "ts-course-vanillajs",
   "version": "1.0.0",
+  "homepage": "https://Nataliia0202.github.io/Nataliia0202-TS-COURSE-VANILLA-JS/",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -11,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "typescript": "^5.4.4"
   }
 }
